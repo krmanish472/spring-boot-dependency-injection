@@ -11,7 +11,7 @@
     <groupId>com.techxtor</groupId>
     <artifactId>ioc-di-learning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ioc-di-learning</name>
+    <name>spring-boot-dependency-injection</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>11</java.version>

@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5636902-4280-4661-8ecd-be0fe55243ee" name="Default Changelist" comment="">
+    <list default="true" id="f5636902-4280-4661-8ecd-be0fe55243ee" name="Default Changelist" comment="workspace commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/techxtor/iocdilearning" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-consume-apis" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -76,6 +77,7 @@
       <updated>1668502188118</updated>
       <workItem from="1668502194920" duration="16028000" />
       <workItem from="1668588941245" duration="215000" />
+      <workItem from="1669122600587" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="Spring IOC and Dependency Injection">
       <created>1668521181629</created>
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668521181631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="workspace commit">
+      <created>1669122716077</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669122716077</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Spring IOC and Dependency Injection" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spring IOC and Dependency Injection" />
+    <MESSAGE value="workspace commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1668516361693">
@@ -111,10 +121,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1668516959414" />
-    <state x="110" y="0" key="CommitChangelistDialog2" timestamp="1668521179638">
+    <state x="110" y="0" key="CommitChangelistDialog2" timestamp="1669122765169">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="110" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1668521179638" />
+    <state x="110" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1669122765169" />
+    <state x="47" y="12" key="DiffContextDialog" timestamp="1669122695997">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="47" y="12" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1669122695997" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1669122873812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1669122873812" />
     <state width="1323" height="214" key="GridCell.Tab.0.bottom" timestamp="1668521543074">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -163,10 +181,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="214" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1668521543075" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1668521202755">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1669122719000">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1668521202755" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1669122719000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
